@@ -22,5 +22,5 @@ Crated and updated new favcon image
 
 Add homepage to package.json
 
-
+Depoloyed vie github https://sbergman98.github.io/React_Portfolio_2021/
 
